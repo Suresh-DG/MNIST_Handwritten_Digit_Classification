@@ -57,10 +57,10 @@ Added `Dropout(0.3)` after the hidden layer, keeping every other setting identic
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/Suresh-DG/MNIST_Handwritten_Digit_Classification
+   cd MNIST_Handwritten_Digit_Classification
    ```
-2. Open `MNIST_Assignment_Updated.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
+2. Open `main.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
 3. Run all cells top to bottom (**Run All**). The dataset downloads automatically via Keras (internet connection required on first run).
 
 ## 🛠️ Tech Stack
